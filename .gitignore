@@ -24,3 +24,6 @@ node_modules/
 
 # JetBrains project files
 .idea/
+
+# Environment files
+.env
