@@ -4,7 +4,10 @@
   "description": "Deployments made simple",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "cd node_modules/mc-core;npm run dev",
+    "postinstall": "echo \"Placeholder for mc setup command after install\"",
+    "postupdate": "echo \"Placeholder for mc setup command after update\""
   },
   "repository": {
     "type": "git",
