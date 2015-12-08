@@ -4,10 +4,10 @@
   "description": "Deployments made simple",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "cd node_modules/mc-core;npm run dev",
-    "postinstall": "echo \"Placeholder for mc setup command after install\"",
-    "postupdate": "echo \"Placeholder for mc setup command after update\""
+    "mc": "node node_modules/mc-core/index.js"
+  },
+  "dependencies": {
+    "mc-core": "*"
   },
   "repository": {
     "type": "git",
@@ -15,8 +15,5 @@
   },
   "author": "Andy Fleming <andy@zesty.io>",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/space-race/mission-control/issues"
-  },
-  "homepage": "https://github.com/space-race/mission-control#readme"
+  "homepage": "http://spacerace.io/mission-control/"
 }
