@@ -1,0 +1,19 @@
+{
+  "name": "mission-control",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/space-race/mission-control.git"
+  },
+  "author": "Andy Fleming <andy@zesty.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/space-race/mission-control/issues"
+  },
+  "homepage": "https://github.com/space-race/mission-control#readme"
+}
