@@ -1,6 +1,6 @@
 # Mission Control *(work in progress)*
 
-[![Docs Link](https://img.shields.io/badge/style-spacerace.io-brightgreen.svg?style=flat&label=docs)](http://spacerace.io/mission-control/docs)
+[![Docs Link](https://img.shields.io/badge/style-spacerace.io-blue.svg?style=flat&label=docs)](http://spacerace.io/mission-control/docs)
 [![Slack Status](https://space-race-slackin.herokuapp.com/badge.svg)](https://space-race-slackin.herokuapp.com/)
 ![Downloads](https://img.shields.io/npm/dt/mc-core.svg)
 
