@@ -14,7 +14,7 @@
     "postdeploy": "echo 'restarting'"
   },
   "addons": [
-    "JawsDB",
+    "jawsdb:kitefin",
     "rediscloud"
   ],
   "env": {
