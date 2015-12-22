@@ -10,7 +10,7 @@ Mission Control is a devops automation orchestration tool. It was built with the
 - [Getting Started](http://spacerace.io/mission-control/docs/getting-started.html)
 - [Contributing and Development](http://spacerace.io/mission-control/docs/development-overview.html)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/shrunyan/mission-control)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/shrunyan/mission-control/tree/heroku)
 
 ## Project Sponsors
 
