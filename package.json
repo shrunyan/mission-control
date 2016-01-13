@@ -7,7 +7,7 @@
     "mc": "node node_modules/mc-core/index.js"
   },
   "dependencies": {
-    "mc-core": "*",
+    "mc-core": "git@github.com:space-race/mc-core.git#develop",
     "mc-ext-basics": "*"
   },
   "repository": {
