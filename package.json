@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "mc-core": "git@github.com:space-race/mc-core.git#develop",
-    "mc-ext-basics": "*"
+    "mc-ext-basics": "git@github.com:space-race/mc-ext-basics.git#master"
   },
   "repository": {
     "type": "git",
